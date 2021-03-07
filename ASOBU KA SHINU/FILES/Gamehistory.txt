@@ -1,0 +1,941 @@
+
+
+------------------------------
+Player name: Shafir Level: 1
+Time Elapsed: 581
+
+Timebonus: 0
+Lifebonus: 1500
+Levelscore: 10000
+	Score: 11500
+Level 1 Prev File:
+level1 45800
+fahim 39999
+meo 36000
+uf 28600
+meomeo 21500
+Mobaswir 11500
+shafi 11500
+mis 11000
+
+
+*****LEADERBOARD*****
+1.              level1	45800
+2.               fahim	39999
+3.                 meo	36000
+4.                  uf	28600
+5.              meomeo	21500
+6.            Mobaswir	11500
+7.               shafi	11500
+8.              Shafir	11500 <--Shafir
+9.                 mis	11000
+
+	You ranked: 8
+
+
+
+
+------------------------------
+Player name: Shafir Level: 2
+Time Elapsed: 986
+
+Timebonus: 0
+Lifebonus: 1500
+Levelscore: 20000
+	Score: 21500
+Level 2 Prev File:
+level 84200
+level2 83300
+level1 41500
+Mobaswir 21500
+shafi 21500
+mis 21500
+
+
+*****LEADERBOARD*****
+1.               level	84200
+2.              level2	83300
+3.              level1	41500
+4.            Mobaswir	21500
+5.               shafi	21500
+6.                 mis	21500
+7.              Shafir	21500 <--Shafir
+
+	You ranked: 7
+
+
+
+
+------------------------------
+Player name: level1 Level: 1
+Time Elapsed: 639
+
+Timebonus: 1100
+Lifebonus: 1500
+Levelscore: 10000
+	Score: 12600
+Level 1 Prev File:
+
+
+*****LEADERBOARD*****
+1.              level1	12600 <--level1
+
+	You ranked: 1
+
+
+
+
+------------------------------
+Player name: level1 Level: 2
+Time Elapsed: 2086
+
+Timebonus: 0
+Lifebonus: 1500
+Levelscore: 20000
+	Score: 21500
+Level 2 Prev File:
+
+
+*****LEADERBOARD*****
+1.              level1	21500 <--level1
+
+	You ranked: 1
+
+
+Thank You level1
+
+
+------------------------------
+Player name: lev Level: 1
+Time Elapsed: 1240
+
+Timebonus: 0
+Lifebonus: 500
+Levelscore: 10000
+	Score: 10500
+Level 1 Prev File:
+level1 12600
+
+
+*****LEADERBOARD*****
+1.              level1	12600
+2.                 lev	10500 <--lev
+
+	You ranked: 2
+
+
+
+
+------------------------------
+Player name: lev Level: 2
+Time Elapsed: 982
+
+Timebonus: 6800
+Lifebonus: 1500
+Levelscore: 20000
+	Score: 28300
+Level 2 Prev File:
+level1 21500
+
+
+*****LEADERBOARD*****
+1.                 lev	28300 <--lev
+2.              level1	21500
+
+	You ranked: 1
+
+
+
+
+------------------------------
+Player name: level3 Level: 3
+Time Elapsed: 1318
+
+Timebonus: 0
+Lifebonus: 1500
+Levelscore: 30000
+	Score: 31500
+Level 3 Prev File:
+
+
+*****LEADERBOARD*****
+1.              level3	31500 <--level3
+
+	You ranked: 1
+
+
+
+
+------------------------------
+Player name: Shafi Level: 1
+Time Elapsed: 1513
+
+Timebonus: 0
+Lifebonus: 500
+Levelscore: 10000
+	Score: 10500
+Level 1 Prev File:
+level1 12600
+lev 10500
+
+
+*****LEADERBOARD*****
+1.              level1	12600
+2.                 lev	10500
+3.               Shafi	10500 <--Shafi
+
+	You ranked: 3
+
+
+
+
+------------------------------
+Player name: Shafi Level: 2
+Time Elapsed: 999
+
+Timebonus: 5100
+Lifebonus: 1500
+Levelscore: 20000
+	Score: 26600
+Level 2 Prev File:
+lev 28300
+level1 21500
+
+
+*****LEADERBOARD*****
+1.                 lev	28300
+2.               Shafi	26600 <--Shafi
+3.              level1	21500
+
+	You ranked: 2
+
+
+
+
+------------------------------
+Player name: Shafi Level: 3
+Time Elapsed: 1116
+
+Timebonus: 0
+Lifebonus: 1500
+Levelscore: 30000
+	Score: 31500
+Level 3 Prev File:
+level3 31500
+
+
+*****LEADERBOARD*****
+1.              level3	31500
+2.               Shafi	31500 <--Shafi
+
+	You ranked: 2
+
+
+
+
+------------------------------
+Player name: Saiful Level: 1
+Time Elapsed: 655
+
+Timebonus: 0
+Lifebonus: 1500
+Levelscore: 10000
+	Score: 11500
+Level 1 Prev File:
+level1 12600
+lev 10500
+Shafi 10500
+
+
+*****LEADERBOARD*****
+1.              level1	12600
+2.              Saiful	11500 <--Saiful
+3.               Shafi	10500
+4.                 lev	10500
+
+	You ranked: 2
+
+
+
+
+------------------------------
+Player name: Saiful Level: 2
+Time Elapsed: 994
+
+Timebonus: 5600
+Lifebonus: 1500
+Levelscore: 20000
+	Score: 27100
+Level 2 Prev File:
+lev 28300
+Shafi 26600
+level1 21500
+
+
+*****LEADERBOARD*****
+1.                 lev	28300
+2.              Saiful	27100 <--Saiful
+3.               Shafi	26600
+4.              level1	21500
+
+	You ranked: 2
+
+
+
+
+------------------------------
+Player name: Saiful Level: 3
+Time Elapsed: 2822
+
+Timebonus: 0
+Lifebonus: 1000
+Levelscore: 30000
+	Score: 31000
+Level 3 Prev File:
+level3 31500
+Shafi 31500
+
+
+*****LEADERBOARD*****
+1.              level3	31500
+2.               Shafi	31500
+3.              Saiful	31000 <--Saiful
+
+	You ranked: 3
+
+
+
+
+------------------------------
+Player name: Razin Level: 1
+Time Elapsed: 1498
+
+Timebonus: 0
+Lifebonus: 1500
+Levelscore: 10000
+	Score: 11500
+Level 1 Prev File:
+level1 12600
+Saiful 11500
+Shafi 10500
+lev 10500
+
+
+*****LEADERBOARD*****
+1.              level1	12600
+2.              Saiful	11500
+3.               Razin	11500 <--Razin
+4.                 lev	10500
+5.               Shafi	10500
+
+	You ranked: 3
+
+
+
+
+------------------------------
+Player name: Razin Level: 2
+Time Elapsed: 1532
+
+Timebonus: 0
+Lifebonus: 1500
+Levelscore: 20000
+	Score: 21500
+Level 2 Prev File:
+lev 28300
+Saiful 27100
+Shafi 26600
+level1 21500
+
+
+*****LEADERBOARD*****
+1.                 lev	28300
+2.              Saiful	27100
+3.               Shafi	26600
+4.              level1	21500
+5.               Razin	21500 <--Razin
+
+	You ranked: 5
+
+
+
+
+------------------------------
+Player name: Razin Level: 3
+Time Elapsed: 2854
+
+Timebonus: 414600
+Lifebonus: 500
+Levelscore: 30000
+	Score: 445100
+Level 3 Prev File:
+level3 31500
+Shafi 31500
+Saiful 31000
+
+
+*****LEADERBOARD*****
+1.               Razin	445100 <--Razin
+2.               Shafi	31500
+3.              level3	31500
+4.              Saiful	31000
+
+	You ranked: 1
+
+
+
+
+------------------------------
+Player name: sab Level: 1
+Time Elapsed: 868
+
+Timebonus: 0
+Lifebonus: 1500
+Levelscore: 10000
+	Score: 11500
+Level 1 Prev File:
+level1 12600
+Saiful 11500
+Razin 11500
+lev 10500
+Shafi 10500
+
+
+*****LEADERBOARD*****
+1.              level1	12600
+2.              Saiful	11500
+3.               Razin	11500
+4.                 sab	11500 <--sab
+5.               Shafi	10500
+6.                 lev	10500
+
+	You ranked: 4
+
+
+
+
+------------------------------
+Player name: level3 Level: 3
+Time Elapsed: 1913
+
+Timebonus: 508700
+Lifebonus: 1000
+Levelscore: 30000
+	Score: 539700
+Level 3 Prev File:
+Razin 445100
+Shafi 31500
+level3 31500
+Saiful 31000
+
+
+*****LEADERBOARD*****
+1.              level3	539700 <--level3
+2.               Razin	445100
+3.               Shafi	31500
+4.              Saiful	31000
+
+	You ranked: 1
+
+
+
+
+------------------------------
+Player name: Anik Level: 1
+Time Elapsed: 632
+
+Timebonus: 1800
+Lifebonus: 1500
+Levelscore: 10000
+	Score: 13300
+Level 1 Prev File:
+level1 12600
+Saiful 11500
+Razin 11500
+sab 11500
+Shafi 10500
+lev 10500
+
+
+*****LEADERBOARD*****
+1.                Anik	13300 <--Anik
+2.              level1	12600
+3.               Razin	11500
+4.                 sab	11500
+5.              Saiful	11500
+6.                 lev	10500
+7.               Shafi	10500
+
+	You ranked: 1
+
+
+
+
+------------------------------
+Player name: Anik Level: 2
+Time Elapsed: 1007
+
+Timebonus: 4300
+Lifebonus: 1500
+Levelscore: 20000
+	Score: 25800
+Level 2 Prev File:
+lev 28300
+Saiful 27100
+Shafi 26600
+level1 21500
+Razin 21500
+
+
+*****LEADERBOARD*****
+1.                 lev	28300
+2.              Saiful	27100
+3.               Shafi	26600
+4.                Anik	25800 <--Anik
+5.               Razin	21500
+6.              level1	21500
+
+	You ranked: 4
+
+
+
+
+------------------------------
+Player name: Anik Level: 3
+Time Elapsed: 1913
+
+Timebonus: 508700
+Lifebonus: 500
+Levelscore: 30000
+	Score: 539200
+Level 3 Prev File:
+level3 539700
+Razin 445100
+Shafi 31500
+Saiful 31000
+
+
+*****LEADERBOARD*****
+1.              level3	539700
+2.                Anik	539200 <--Anik
+3.               Razin	445100
+4.               Shafi	31500
+5.              Saiful	31000
+
+	You ranked: 2
+
+
+
+
+------------------------------
+Player name: Erfan Level: 1
+Time Elapsed: 1190
+
+Timebonus: 0
+Lifebonus: 1500
+Levelscore: 10000
+	Score: 11500
+Level 1 Prev File:
+Anik 13300
+level1 12600
+Razin 11500
+sab 11500
+Saiful 11500
+lev 10500
+Shafi 10500
+
+
+*****LEADERBOARD*****
+1.                Anik	13300
+2.              level1	12600
+3.               Razin	11500
+4.                 sab	11500
+5.              Saiful	11500
+6.               Erfan	11500 <--Erfan
+7.               Shafi	10500
+8.                 lev	10500
+
+	You ranked: 6
+
+
+
+
+------------------------------
+Player name: Erfan Level: 2
+Time Elapsed: 998
+
+Timebonus: 5200
+Lifebonus: 1500
+Levelscore: 20000
+	Score: 26700
+Level 2 Prev File:
+lev 28300
+Saiful 27100
+Shafi 26600
+Anik 25800
+Razin 21500
+level1 21500
+
+
+*****LEADERBOARD*****
+1.                 lev	28300
+2.              Saiful	27100
+3.               Erfan	26700 <--Erfan
+4.               Shafi	26600
+5.                Anik	25800
+6.              level1	21500
+7.               Razin	21500
+
+	You ranked: 3
+
+
+Thank You Erfan
+
+
+------------------------------
+Player name: gazin Level: 1
+Time Elapsed: 1227
+
+Timebonus: 0
+Lifebonus: 1500
+Levelscore: 10000
+	Score: 11500
+Level 1 Prev File:
+Anik 13300
+level1 12600
+Razin 11500
+sab 11500
+Saiful 11500
+Erfan 11500
+Shafi 10500
+lev 10500
+
+
+*****LEADERBOARD*****
+1.                Anik	13300
+2.              level1	12600
+3.               Razin	11500
+4.                 sab	11500
+5.              Saiful	11500
+6.               Erfan	11500
+7.               gazin	11500 <--gazin
+8.                 lev	10500
+9.               Shafi	10500
+
+	You ranked: 7
+
+
+
+
+------------------------------
+Player name: Sawraz  Level: 1
+Time Elapsed: 1243
+
+Timebonus: 0
+Lifebonus: 1000
+Levelscore: 10000
+	Score: 11000
+Level 1 Prev File:
+Anik 13300
+level1 12600
+Razin 11500
+sab 11500
+Saiful 11500
+Erfan 11500
+gazin 11500
+lev 10500
+Shafi 10500
+
+
+*****LEADERBOARD*****
+1.                Anik	13300
+2.              level1	12600
+3.               Razin	11500
+4.                 sab	11500
+5.              Saiful	11500
+6.               Erfan	11500
+7.               gazin	11500
+8.             Sawraz 	11000 <--Sawraz 
+9.               Shafi	10500
+10.                 lev	10500
+
+	You ranked: 8
+
+
+
+
+------------------------------
+Player name: Sawraz  Level: 2
+Time Elapsed: 1556
+
+Timebonus: 0
+Lifebonus: 1000
+Levelscore: 20000
+	Score: 21000
+Level 2 Prev File:
+lev 28300
+Saiful 27100
+Erfan 26700
+Shafi 26600
+Anik 25800
+level1 21500
+Razin 21500
+
+
+*****LEADERBOARD*****
+1.                 lev	28300
+2.              Saiful	27100
+3.               Erfan	26700
+4.               Shafi	26600
+5.                Anik	25800
+6.              level1	21500
+7.               Razin	21500
+8.             Sawraz 	21000 <--Sawraz 
+
+	You ranked: 8
+
+
+
+
+------------------------------
+Player name: Sawraz  Level: 3
+Time Elapsed: 1503
+
+Timebonus: 549700
+Lifebonus: 1500
+Levelscore: 30000
+	Score: 581200
+Level 3 Prev File:
+level3 539700
+Anik 539200
+Razin 445100
+Shafi 31500
+Saiful 31000
+
+
+*****LEADERBOARD*****
+1.             Sawraz 	581200 <--Sawraz 
+2.              level3	539700
+3.                Anik	539200
+4.               Razin	445100
+5.               Shafi	31500
+6.              Saiful	31000
+
+	You ranked: 1
+
+
+
+
+------------------------------
+Player name: Sawraz  Level: 3
+Time Elapsed: 1503
+
+Timebonus: 549700
+Lifebonus: 1500
+Levelscore: 30000
+	Score: 581200
+Level 3 Prev File:
+Sawraz 581200
+level3 539700
+Anik 539200
+Razin 445100
+Shafi 31500
+Saiful 31000
+
+
+*****LEADERBOARD*****
+1.              Sawraz	581200
+2.             Sawraz 	581200 <--Sawraz 
+3.              level3	539700
+4.                Anik	539200
+5.               Razin	445100
+6.               Shafi	31500
+7.              Saiful	31000
+
+	You ranked: 2
+
+
+Thank You Sawraz 
+
+
+------------------------------
+Player name: kamal Level: 1
+Time Elapsed: 908
+
+Timebonus: 0
+Lifebonus: 1500
+Levelscore: 10000
+	Score: 11500
+Level 1 Prev File:
+Anik 13300
+level1 12600
+Razin 11500
+sab 11500
+Saiful 11500
+Erfan 11500
+gazin 11500
+Sawraz 11000
+Shafi 10500
+lev 10500
+
+
+*****LEADERBOARD*****
+1.                Anik	13300
+2.              level1	12600
+3.               Razin	11500
+4.                 sab	11500
+5.              Saiful	11500
+6.               Erfan	11500
+7.               gazin	11500
+8.               kamal	11500 <--kamal
+9.              Sawraz	11000
+10.                 lev	10500
+11.               Shafi	10500
+
+	You ranked: 8
+
+
+
+
+------------------------------
+Player name: kamal Level: 2
+Time Elapsed: 1007
+
+Timebonus: 4300
+Lifebonus: 1500
+Levelscore: 20000
+	Score: 25800
+Level 2 Prev File:
+lev 28300
+Saiful 27100
+Erfan 26700
+Shafi 26600
+Anik 25800
+level1 21500
+Razin 21500
+Sawraz 21000
+
+
+*****LEADERBOARD*****
+1.                 lev	28300
+2.              Saiful	27100
+3.               Erfan	26700
+4.               Shafi	26600
+5.                Anik	25800
+6.               kamal	25800 <--kamal
+7.               Razin	21500
+8.              level1	21500
+9.              Sawraz	21000
+
+	You ranked: 6
+
+
+
+
+------------------------------
+Player name: Erin Level: 1
+Time Elapsed: 487
+
+Timebonus: 16300
+Lifebonus: 1500
+Levelscore: 10000
+	Score: 27800
+Level 1 Prev File:
+Anik 13300
+level1 12600
+Razin 11500
+sab 11500
+Saiful 11500
+Erfan 11500
+gazin 11500
+kamal 11500
+Sawraz 11000
+lev 10500
+
+
+*****LEADERBOARD*****
+1.                Erin	27800 <--Erin
+2.                Anik	13300
+3.              level1	12600
+4.                 sab	11500
+5.              Saiful	11500
+6.               Erfan	11500
+7.               gazin	11500
+8.               kamal	11500
+9.               Razin	11500
+10.              Sawraz	11000
+11.                 lev	10500
+
+	You ranked: 1
+
+
+
+
+------------------------------
+Player name: Erin Level: 2
+Time Elapsed: 1216
+
+Timebonus: 0
+Lifebonus: 1500
+Levelscore: 20000
+	Score: 21500
+Level 2 Prev File:
+lev 28300
+Saiful 27100
+Erfan 26700
+Shafi 26600
+Anik 25800
+kamal 25800
+Razin 21500
+level1 21500
+Sawraz 21000
+
+
+*****LEADERBOARD*****
+1.                 lev	28300
+2.              Saiful	27100
+3.               Erfan	26700
+4.               Shafi	26600
+5.                Anik	25800
+6.               kamal	25800
+7.               Razin	21500
+8.              level1	21500
+9.                Erin	21500 <--Erin
+10.              Sawraz	21000
+
+	You ranked: 9
+
+
+
+
+------------------------------
+Player name: Erin Level: 3
+Time Elapsed: 2177
+
+Timebonus: 482300
+Lifebonus: 1500
+Levelscore: 30000
+	Score: 513800
+Level 3 Prev File:
+Sawraz 581200
+Sawraz 581200
+level3 539700
+Anik 539200
+Razin 445100
+Shafi 31500
+Saiful 31000
+
+
+*****LEADERBOARD*****
+1.              Sawraz	581200
+2.              Sawraz	581200
+3.              level3	539700
+4.                Anik	539200
+5.                Erin	513800 <--Erin
+6.               Razin	445100
+7.               Shafi	31500
+8.              Saiful	31000
+
+	You ranked: 5
+
+

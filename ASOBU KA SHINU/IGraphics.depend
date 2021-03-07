@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1568434791 source:d:\ashobu ka shinu\term 1-1 project\nafee asobu-ka-shinusmooth-kora-shoho(minor bug fixes).cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1568183620 d:\ashobu ka shinu\term 1-1 project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568183816 d:\ashobu ka shinu\term 1-1 project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568183816 d:\ashobu ka shinu\term 1-1 project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568464728 source:e:\term 1-1 project\mepmep4.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1568183620 e:\term 1-1 project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568183816 e:\term 1-1 project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568183816 e:\term 1-1 project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568438106 source:d:\term 1-1\term 1-1 project by sawraz,nafee,mobaswir\term 1-1 project\term 1-1 project final(eitai submit kora hoise).cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1568183620 d:\term 1-1\term 1-1 project by sawraz,nafee,mobaswir\term 1-1 project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568183816 d:\term 1-1\term 1-1 project by sawraz,nafee,mobaswir\term 1-1 project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568183816 d:\term 1-1\term 1-1 project by sawraz,nafee,mobaswir\term 1-1 project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
